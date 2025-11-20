@@ -76,12 +76,7 @@ Passionate fullstack developer with expertise in building modern web application
 
 </div>
 
-### 💼 Featured Projects
 
-<!-- Add your featured projects here -->
-- 🔥 **Project 1**: Description of your amazing project
-- 🚀 **Project 2**: Description of another cool project
-- 💡 **Project 3**: Description of your innovative project
 
 ### 📝 Latest Blog Posts
 
