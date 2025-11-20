@@ -214,17 +214,7 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<div align="center">
-
-📌 [Building Scalable Microservices with Node.js](https://yourblog.com/post1)  
-📌 [React Performance Optimization Tips](https://yourblog.com/post2)  
-📌 [Understanding Docker Containers](https://yourblog.com/post3)  
-📌 [MongoDB Aggregation Pipeline Deep Dive](https://yourblog.com/post4)  
-
-</div>
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -292,21 +282,9 @@ Other        40 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🎵 Coding & Vibing
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff91a4&bar_color_cover=true" alt="Spotify Now Playing"/>
 
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/bereketmengaw" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
 
 </div>
 
