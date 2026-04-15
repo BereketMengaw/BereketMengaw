@@ -79,18 +79,7 @@ mindset:
 
 <br/>
 
-## 📊 &nbsp;By the Numbers
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bereketmengaw&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketmengaw&layout=donut&langs_count=6&theme=nightowl&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=bereketmengaw&theme=nightowl&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
-</div>
-
-<br/>
 
 ## 🧭 &nbsp;Currently
 
