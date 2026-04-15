@@ -18,7 +18,7 @@ class Developer {
   name: string = "Bereket Mengaw";
   role: string = "Fullstack Developer";
   location: string = "🌍";
-  
+
   skills = {
     languages: ["JavaScript", "TypeScript", "Python", "Java"],
     frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
@@ -26,9 +26,9 @@ class Developer {
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     tools: ["Docker", "Git", "AWS", "Linux"]
   };
-  
+
   getCurrentStatus() {
-    return "Building scalable solutions & learning new tech 🚀";
+    return "Building scalable solutions & exploring new tech 🚀";
   }
 }
 ```
@@ -66,7 +66,7 @@ class Developer {
 ### 📈 Contribution Graph
 
 <div align="center">
-  
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bereketmengaw&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
@@ -78,14 +78,14 @@ class Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bereketmengaw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bereketmengaw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brhanclaude@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
 
 ⭐️ From [Bereket Mengaw](https://github.com/bereketmengaw)
