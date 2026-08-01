@@ -79,7 +79,13 @@ mindset:
 
 <br/>
 
+## ⚡ &nbsp;Recent Activity
 
+<!--START_SECTION:activity-->
+<!-- This list is generated automatically — do not edit by hand. -->
+<!--END_SECTION:activity-->
+
+<br/>
 
 ## 🧭 &nbsp;Currently
 
