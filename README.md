@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/bereketmengaw?style=flat-square&color=2c5364&label=followers" />
 </p>
 
-## 👋 &nbsp;About Me
+##  &nbsp;About Me
 
 > Fullstack engineer who treats every product like a craft piece — obsessed with clean architecture, fast feedback loops, and interfaces that *feel* right.
 
@@ -26,7 +26,7 @@ mindset:
 
 <br/>
 
-## 🧰 &nbsp;Toolbelt
+##  &nbsp;Toolbelt
 
 <table>
 <tr>
@@ -82,12 +82,12 @@ mindset:
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42736](https://github.com/is-a-dev/register/pull/42736) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1.  Merged PR [#42736](https://github.com/is-a-dev/register/pull/42736) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <br/>
 
-## 🧭 &nbsp;Currently
+##  &nbsp;Currently
 
 | | |
 |---|---|
