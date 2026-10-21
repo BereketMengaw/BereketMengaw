@@ -82,7 +82,7 @@ mindset:
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Merged PR [#42736](https://github.com/is-a-dev/register/pull/42736) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 💪 Opened PR [#7041](https://github.com/wikimedia/apps-android-wikipedia/pull/7041) in [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 <!--END_SECTION:activity-->
 
 <br/>
