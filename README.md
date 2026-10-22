@@ -82,7 +82,7 @@ mindset:
 ## ⚡ &nbsp;Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7041](https://github.com/wikimedia/apps-android-wikipedia/pull/7041) in [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+1. 🎉 Merged PR [#7040](https://github.com/wikimedia/apps-android-wikipedia/pull/7040) in [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
 <!--END_SECTION:activity-->
 
 <br/>
